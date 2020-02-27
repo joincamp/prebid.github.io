@@ -6,6 +6,8 @@ version: 1.0.0
 license: Apache License
 licenseUrl: http://www.apache.org/licenses/LICENSE-2.0
 
+baseurl: /prebid.github.io
+
 # list of additional links on the right of the top menu
 headerLinks:
   - title: GitHub
